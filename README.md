@@ -10,6 +10,10 @@ This is a graph-based interstate highway system simulator implementing and compa
 * Interactive GUI with hover tooltips to identify nodes (cities/interchanges)
 * Displays output route directly on map
 
+## Requirements
+* Python 3.10 or higher
+* pip (package manager for Python)
+
 ## How to Run
 ### 1. Download repository
 1. Click the "Code" button on repository page.
@@ -19,7 +23,7 @@ This is a graph-based interstate highway system simulator implementing and compa
 ### 2. Install dependencies
 This project requires the networkx and matplotlib Python libraries. They can be installed with the following command:
 ```
-pip install networkx matplotlib
+python -m pip install networkx matplotlib
 ```
 Tkinter is included with most Python installations.
 
