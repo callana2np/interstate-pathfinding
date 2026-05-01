@@ -36,6 +36,7 @@ Examples:
 * Jacksonville, FL
 * Denver, CO
 * Los Angeles, CA
+
 Please refer to the source code (cities.py) for the full list of supported cities.
 
 ### 5. View results
