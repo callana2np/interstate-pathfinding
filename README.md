@@ -15,10 +15,23 @@ This is a graph-based interstate highway system simulator implementing and compa
 * pip (package manager for Python)
 
 ## How to Run
-### 1. Download repository
+### 1. Clone repository
+Option #1: Download from GitHub Website
 1. Click the "Code" button on repository page.
 2. Select "Download ZIP"
 3. Extract files to PC
+
+Option #2: Use Terminal
+```
+# Navigate to directory of choice for storing repo
+cd path/to/folder
+
+# Clone repository
+git clone https://github.com/callana2np/interstate-pathfinding.git
+
+# Move into project directory
+cd interstate-pathfinding
+```
 
 ### 2. Install dependencies
 This project requires the networkx and matplotlib Python libraries. They can be installed with the following command:
